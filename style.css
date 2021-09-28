@@ -1,0 +1,10 @@
+.img{
+position: absolute;
+}
+.sum{
+	position: relative;
+	padding-top: 100px;
+	padding-left: 200px;
+	text-align: left;
+	font-family: "cooper black";
+}
